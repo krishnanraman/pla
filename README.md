@@ -1,6 +1,6 @@
 pla
 ===
-
+```
 Perceptron Learning Algorithm: Supervised Classification
 
 Example: Consider a line with slope 2, intercept 3
@@ -23,3 +23,4 @@ Apply Update rule:
 W = W + X
 --
 The weights must be close to Seq(-3,-2,1)
+```
